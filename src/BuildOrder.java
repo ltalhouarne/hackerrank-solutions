@@ -15,6 +15,8 @@ public class BuildOrder {
         Node<String> e = new Node<>("e");
         Node<String> f = new Node<>("f");
 
+        Stack<String> stack = new Stack<>();
+
         projects.add(a);
         projects.add(b);
         projects.add(c);
