@@ -42,8 +42,8 @@ public class JourneyToTheMoon {
             sets.add(set);
         }
 
-        int sum = 0;
-        int result = 0;
+        long sum = 0;
+        long result = 0;
 
         for(Set<Node<Integer>> set : sets)
         {
