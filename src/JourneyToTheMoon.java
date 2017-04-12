@@ -38,6 +38,7 @@ public class JourneyToTheMoon {
 
         for(Node<Integer> node: nodesToVisit) {
             Set<Node<Integer>> set = new HashSet<>();
+            set.add(node);
             sets.add(set);
         }
 
