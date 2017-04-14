@@ -1,1 +1,1 @@
-https://www.hackerrank.com/
+Solutions from: https://www.hackerrank.com/
